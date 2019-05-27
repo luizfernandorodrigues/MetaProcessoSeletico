@@ -13,11 +13,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
   </ItemGroup>
 
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\MetaApp\MetaApp\AcessaDados\AcessaDados.csproj" />
-    <ProjectReference Include="..\..\..\MetaApp\MetaApp\Modelo\Modelo.csproj" />
-    <ProjectReference Include="..\..\..\MetaApp\MetaApp\Repositorio\Repositorio.csproj" />
-  </ItemGroup>
-
 </Project>
